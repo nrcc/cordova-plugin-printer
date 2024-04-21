@@ -1,19 +1,19 @@
 {
-  "name": "cordova-plugin-printer",
+  "name": "cordova-plugin-printer-androidx",
   "version": "0.8.0",
   "description": "Prints HTML documents",
   "cordova": {
-    "id": "cordova-plugin-printer",
+    "id": "cordova-plugin-printer-androidx",
     "platforms": [
       "ios",
-      "android",
+      "androidx",
       "windows",
       "browser"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-printer.git"
+    "url": "git+https://github.com/nrcc/cordova-plugin-printer.git"
   },
   "keywords": [
     "appplant",
